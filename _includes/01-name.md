@@ -1,8 +1,4 @@
 <h1># HELLLOOOOO <h1>
-<h1># HELLLOOOOO <h1>
-<h1> My Header!! <h1>
-#<h1> My Header!! <h1>
-#<h1> My Header!! <h1>
   
 #Replace this with your name, and include a header.
 # This is an <h1> header, which is the largest
